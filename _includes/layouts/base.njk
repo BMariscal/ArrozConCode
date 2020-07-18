@@ -3,6 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="https://i.imgur.com/ngTc7s1.png" sizes="32x32">
     <title>{{ renderData.title or title or metadata.title }}</title>
     <meta name="Description" content="{{ renderData.description or description or metadata.description }}">
     <link rel="stylesheet" href="{{ '/css/index.css' | url }}">
@@ -16,17 +17,19 @@
       {#- Read more about `eleventy-navigation` at https://www.11ty.dev/docs/plugins/navigation/ #}
       <ul class="nav">
       {%- for entry in collections.all | eleventyNavigation %}
-        <li class="nav-item{% if entry.url == page.url %} nav-item-active{% endif %}"><a href="{{ entry.url | url }}">{{ entry.title }}</a></li>
+          <li class="nav-item{% if entry.url == page.url %} nav-item-active{% endif %}"><a href="{{ entry.url | url }}"> {{ entry.title }} </a></li>
       {%- endfor %}
       </ul>
     </header>
+    <div class="card">
+<div class="card card-1">
 
-    <main{% if templateClass %} class="{{ templateClass }}"{% endif %}>
+    <main {% if templateClass %} class="{{ templateClass }}"{% endif %}>
       {{ content | safe }}
-    </main>
-
-    <footer></footer>
 
     <!-- Current page: {{ page.url | url }} -->
+    </main>
+    </div>
+    </div>
   </body>
 </html>
