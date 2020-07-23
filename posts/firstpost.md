@@ -7,7 +7,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-<a target="_blank" href="https://www.tripadvisor.com/Attraction_Review-g635545-d301003-Reviews-El_Valle_de_Anton-El_Valle_de_Anton_Cocle_Province.html"><img src="https://i.imgur.com/UM6hI1s.jpg?2" title="Panama Rainforest" /></a>
+<a target="_blank" href="https://www.tripadvisor.com/Attraction_Review-g635545-d301003-Reviews-El_Valle_de_Anton-El_Valle_de_Anton_Cocle_Province.html"><img src="https://i.imgur.com/UM6hI1s.jpg?2" title="Panama Rainforest" style="width:90%;"/></a>
 
 <i>
 <cite>El Valle de Anton, Panama</cite>
@@ -40,7 +40,9 @@ You gain strength, courage and confidence by every experience in which you reall
 </footer>
 </blockquote>
 
-As a junior engineer, it is important to surround yourself with people who believe in your skills. Meritocracy is a myth. "Pulling oneself up by the bootstraps" is impossible. Surround yourself with positive people who will give you critical feedback when needed but who also believe in your abilities to learn anything you set your mind to. As a woman in tech, I'm afraid of uncertainty, I'm unsure of my abilities and I'm not comfortable with my knowledge gaps but I have several male-mentors who have encouraged me to do more throughout my career and who have believed in my abilities to learn, to code and to succeed. Pretend you are a confident man for a day, take a risk and <b><u>[just do the thing you think you cannot do](https://www.theatlantic.com/magazine/archive/2014/05/the-confidence-gap/359815/)</u></b>. Apply for the job you don't think you're qualified for because why not? what do you have to lose anyway? You're a confident dude, just brush it off, move on and apply to the next job.
+As a junior engineer, it is important to surround yourself with people who believe in your skills. Meritocracy is a myth. "Pulling oneself up by the bootstraps" is impossible. It takes a village to lift you up, it takes a village to change the world.
+
+Surround yourself with positive people who will give you critical feedback when needed but who also believe in your abilities to learn anything you set your mind to. As a woman in tech, I'm afraid of uncertainty, I'm unsure of my abilities and I'm not comfortable with my knowledge gaps but I have several male mentors who have encouraged me to do more throughout my career and who have believed in my abilities to learn, to code and to succeed. Pretend you are a confident man for a day, take a risk and <b><u>[just do the thing you think you cannot do](https://www.theatlantic.com/magazine/archive/2014/05/the-confidence-gap/359815/)</u></b>. Apply for the job you don't think you're qualified for because why not? what do you have to lose anyway? You're a confident dude, just brush it off, move on and apply to the next job.
 
 </br>
 </br>
@@ -63,11 +65,11 @@ Make explanations ADEPT:</a> </cite> Use an Analogy, Diagram, Example, Plain-Eng
 </br>
 </br>
 
-Don't rely on tutorials to draw things out for you, draw them out yourself. Learn how you learn and do the extra work tailored to your needs to make those new abstract concepts click.
+Don't rely on tutorials to draw things out for you, draw them out yourself. Learn how you learn (what's your learning style? what makes concepts click for you?) and do the extra work tailored to your needs to make those new abstract concepts click.
 
 You are not perfect and you do not have to be perfect to succeed in this field. It's OK to not know <b>x/y/z</b> right now but you will learn them. You can learn them.
 
-Stay curious. There's so much to learn, so little time and so many ways to waste time (Netflix, why?! Do I really need to watch <i> New Girl</i> again? <b> YES </b> 😉).
+Stay curious. There's so much to learn, so little time and so many ways to waste time (Netflix, why you do this?! Do I really need to watch <i> New Girl</i> again? <b> YES </b> 😉).
 
 <div class="video-responsive">
 <iframe width="420" height="315"" src="https://www.youtube.com/embed/kz7Hl4lbN0Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

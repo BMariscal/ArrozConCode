@@ -21,28 +21,101 @@ eleventyNavigation:
 <br>
 <div>
 Hello! I'm Briceida <span>(Bree-say-dah)</span> but I often go by Bri/Brie. I'm a software developer in San Francisco.
-</div>
-<div>
-You can read more about my software engineering journey <a href="https://medium.com/engineers-optimizely/from-security-guard-to-backend-engineer-how-the-i-own-it-scholarship-changed-my-life-ebf1d370ffc3" target="_blank">here</a>.
+I was born in Panama and moved to the U.S when I was 11 years old. I grew up in the U.S as an undocumented immigrant and became a DACA recipient in 2012. <div>
+You can read more about my software engineering journey <u><a href="https://medium.com/engineers-optimizely/from-security-guard-to-backend-engineer-how-the-i-own-it-scholarship-changed-my-life-ebf1d370ffc3" target="_blank">here</a></u>.
 </div>
 <br>
 <br>
 <div>
 In this blog, I plan to cover concepts, tips and tools I've learned/am learning to increase my understanding of backend web development to hopefully help people who are self-taught/new to tech and interested in backend web development.
 </div>
-<div>
-
-<br>
 <hr>
-What does <span> Arroz Con Code</span> mean?
+</br>
+<details>
+<summary>Random facts & other things</summary>
+
+<ul style="list-style-type: none;">
+<li> I learned all I know about American '70s/'80s/'90s pop culture from VH1's <i>I Love the 70s/80s/90s</i> series and <i>Sentimental Journeys</i>
+  by Joan Didion.
+  </li>
+  </br>
+<li>
+  My ancestors built the
+  <a href="https://revista.drclas.harvard.edu/book/chinese-panam%C3%A1-also-have-story-tell%E2%80%A6" target="_blank"> Panama Railroad</a> and the
+  <a href="http://blackexpat.com/new/magazine-archives/2009-new-year/back-in-the-day-west-indian-migrants/" target="_blank">Panama Canal</a>.
+</li>
+  </br>
+<li>
+  My mother is the strongest, most amazing woman I know. 
+    </li>
+    </br>
+<img src="https://i.imgur.com/srkuXPOm.jpg" title="mom hugging her sunflowers" />
+</br>
+</br>
+</br>
+
+</br>
+<li>
+I still love Anthropology. Much like Philosophy, Anthropology doesn't pay well/at all, but it's still awesome. Anthropology makes you think about the world around you, the world that exists beyond what you can see. This field pushes us to self-reflect and think about how nature and nurture shape who we are as a species; how cultural constructs shape our laws, every day lives and behaviors.
+
+<li>
+As a multiracial and socially anxious person who has always felt like an outsider, Anthropology was/is a way for me to understand the world around me. I'm still interested in <i>Biopolitics</i> and how nature/culture impacts how we interact and shape the world around us. Most of the things you value ... things that shape the world and your every day life, are social constructs. Each person creates their own "constructed reality" that drives their behaviors. Once you acknowlege/accept your mortality and that most of the things you know to be true are social constructs, what is your purpose in life?
+</li>
+</br>
+<li>
+Regardless of your religious beliefs, treat this life as the only life you will live.
+What do you want to improve/change about this reality before you die? Do that!
+Make this reality a little better for people who can't experience the good things in life, the things that are so easily accessible to you because of your priviledge. Appreciate the small things in life because they are fleeting, and make an effort to help others so that they too can experience the good things you've experienced.
+</li>
+</br>
+<li>
+Once you've experienced economic distress, <ul> <a href="https://www.newyorker.com/magazine/2020/03/23/why-americans-are-dying-from-despair" style="text-decoration: underline;"  target="_blank"> deaths of despair unfortunately make sense</a></u>. Economic distress is probably not a thing you've ever experienced but it takes a huge toll on a person's life. The high rate of suicides in the <u><a href="https://www.usatoday.com/in-depth/news/investigations/2020/03/09/climate-tariffs-debt-and-isolation-drive-some-farmers-suicide/4955865002/"  target="_blank">farming community</a></u>, the opiate and the crack epidemics all make sense once you've experienced/understand economic distress. Even if you haven't experienced economic distress, put yourself in other people's shoes. Talk to a person who has experienced poverty and listen. Things do not need to happen to you/a friend/loved one for these experiences to be real issues. Be better. Do more.
+</li>
+<blockquote>
+<p>What is needed today is a fundamental re-experience of the oneness of all living things.</p>
+<footer> —Albert Hofmann
+</footer>
+</blockquote>
+</ul>
+</details>
+</div>
+<div>
+<br>
+<details>
+<summary>What does <span> Arroz Con Code</span> mean?</summary>
 <br>
 Literal translation: <i>Rice With Code.</i>
-</div>
 <br>
-<div>
 Back in Panama when I was a tiny Briceida, my mom always cooked arroz con pollo on birthdays and I remember eating arroz con coco with fried fish and candied bananas (<i>Platanos en Tentacion</i>) every time I went to my grandmother's home. Arroz con gandules was always and will always be my favorite dish. Rice-based dishes are a big staple in Latin American/Caribbean cusine.
-</div>
 <br>
 <div>
 Arroz Con Code is an amalgamation of two of the best things in life (imo), food and coding!
+</div>
+</details>
+<br>
+<br>
+<div class="slideshow-container" style="max-width:90%;">
+
+<div class="mySlides fade one">
+  <img src="https://i.imgur.com/PRmKuAUl.jpg">
+  <cite>Miniatures I've painted. </br> Warhammer Age of Sigmar: Slaves to Darkness - The Unmade
+  </cite>
+</div>
+
+<div class="mySlides fade two">
+  <img src="https://i.imgur.com/fIRnKGdl.jpg">
+  <div class="text"></div>
+</div>
+
+<div class="mySlides fade three">
+  <img src="https://i.imgur.com/IVl4fUbl.jpg">
+  <div class="text"></div>
+</div>
+</div>
+<br>
+
+<div style="text-align:center">
+  <span class="dot" onclick="currentSlide(1)"></span> 
+  <span class="dot" onclick="currentSlide(2)"></span> 
+  <span class="dot" onclick="currentSlide(3)"></span> 
 </div>

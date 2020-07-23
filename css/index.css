@@ -62,16 +62,6 @@ p:last-child {
   margin-bottom: 0;
 }
 p,
-.tmpl-post li,
-img {
-  max-width: 100%;
-  max-height: 50em;
-}
-img:hover {
-  max-width: 100%;
-  max-height: 60em;
-}
-p,
 .tmpl-post li {
   line-height: 1.45;
   text-align: center;
@@ -372,4 +362,156 @@ blockquote p::before {
 
 blockquote p::after {
   content: "\201D";
+}
+summary {
+  outline: none;
+}
+table.blackTable {
+  border: 1px solid #041018;
+  background-color: #eeeeee;
+  text-align: left;
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+}
+table.blackTable td,
+table.blackTable th {
+  border: 1px solid #aaaaaa;
+  padding: 3px 2px;
+}
+table.blackTable tbody td {
+  font-size: 13px;
+}
+table.blackTable tr:nth-child(even) {
+  background: #70737546;
+}
+table.blackTable thead {
+  background: #071118;
+  background: linear-gradient(to bottom, #3f4549 0%, #272e33 66%, #4c4e4e 100%);
+  border-bottom: 2px solid #444444;
+}
+table.blackTable thead th {
+  font-size: 15px;
+  font-weight: bold;
+  color: #ffffff;
+  border-left: 2px solid #838383;
+}
+table.blackTable thead th:first-child {
+  border-left: none;
+}
+
+table.blackTable tfoot {
+  font-size: 14px;
+  font-weight: bold;
+  color: #ffffff;
+  background: #414446;
+  background: linear-gradient(to bottom, #d0d2d3 0%, #bcbcbd 66%, #edf1f5 100%);
+  border-top: 2px solid #444444;
+}
+table.blackTable tfoot td {
+  font-size: 14px;
+}
+table.blackTable tfoot .links {
+  text-align: right;
+}
+table.blackTable tfoot .links a {
+  display: inline-block;
+  background: #101f29;
+  color: #ffffff;
+  padding: 2px 8px;
+  border-radius: 5px;
+}
+.mySlides {
+  max-width: 100%;
+}
+/* Slideshow container */
+.slideshow-container {
+  max-width: 100%;
+  position: relative;
+  margin: auto;
+}
+/* Caption text */
+.text {
+  color: rgb(255, 251, 251);
+  text-shadow: 0 0 3px rgb(96, 96, 96);
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active,
+.dot:hover {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {
+    opacity: 0.4;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes fade {
+  from {
+    opacity: 0.4;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+  .prev,
+  .next,
+  .text {
+    font-size: 11px;
+  }
+}
+
+div.one {
+  display: inline-block;
+}
+div.two {
+  display: none;
+}
+div.three {
+  display: none;
+}
+.mySlides > img {
+  width: 100%;
 }
