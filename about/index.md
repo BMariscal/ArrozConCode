@@ -59,23 +59,9 @@ In this blog, I plan to cover concepts, tips and tools I've learned/am learning 
 I still love Anthropology. Much like Philosophy, Anthropology doesn't pay well/at all, but it's still awesome. Anthropology makes you think about the world around you, the world that exists beyond what you can see. This field pushes us to self-reflect and think about how nature and nurture shape who we are as a species; how cultural constructs shape our laws, every day lives and behaviors.
 
 <li>
-As a multiracial and socially anxious person who has always felt like an outsider, Anthropology was/is a way for me to understand the world around me. I'm still interested in <i>Biopolitics</i> and how nature/culture impacts how we interact and shape the world around us. Most of the things you value ... things that shape the world and your every day life, are social constructs. Each person creates their own "constructed reality" that drives their behaviors. Once you acknowlege/accept your mortality and that most of the things you know to be true are social constructs, what is your purpose in life?
+As a multiracial and socially anxious person who has always felt like an outsider, Anthropology was/is a way for me to understand the world around me. I'm still interested in <i>Biopolitics</i> and how nature/culture impact how we interact and shape the world around us.
 </li>
 </br>
-<li>
-Regardless of your religious beliefs, treat this life as the only life you will live.
-What do you want to improve/change about this reality before you die? Do that!
-Make this reality a little better for people who can't experience the good things in life, the things that are so easily accessible to you because of your priviledge. Appreciate the small things in life because they are fleeting, and make an effort to help others so that they too can experience the good things you've experienced.
-</li>
-</br>
-<li>
-Once you've experienced economic distress, <ul> <a href="https://www.newyorker.com/magazine/2020/03/23/why-americans-are-dying-from-despair" style="text-decoration: underline;"  target="_blank"> deaths of despair unfortunately make sense</a></u>. Economic distress is probably not a thing you've ever experienced but it takes a huge toll on a person's life. The high rate of suicides in the <u><a href="https://www.usatoday.com/in-depth/news/investigations/2020/03/09/climate-tariffs-debt-and-isolation-drive-some-farmers-suicide/4955865002/"  target="_blank">farming community</a></u>, the opiate and the crack epidemics all make sense once you've experienced/understand economic distress. Even if you haven't experienced economic distress, put yourself in other people's shoes. Talk to a person who has experienced poverty and listen. Things do not need to happen to you/a friend/loved one for these experiences to be real issues. Be better. Do more.
-</li>
-<blockquote>
-<p>What is needed today is a fundamental re-experience of the oneness of all living things.</p>
-<footer> —Albert Hofmann
-</footer>
-</blockquote>
 </ul>
 </details>
 </div>
@@ -119,3 +105,9 @@ Arroz Con Code is an amalgamation of two of the best things in life (imo), food 
   <span class="dot" onclick="currentSlide(2)"></span> 
   <span class="dot" onclick="currentSlide(3)"></span> 
 </div>
+
+<blockquote>
+<p>What is needed today is a fundamental re-experience of the oneness of all living things.</p>
+<footer> —Albert Hofmann
+</footer>
+</blockquote>
