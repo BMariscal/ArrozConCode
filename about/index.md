@@ -61,6 +61,14 @@ I still love Anthropology. Much like Philosophy, Anthropology doesn't pay well/a
 <li>
 As a multiracial and socially anxious person who has always felt like an outsider, Anthropology was/is a way for me to understand the world around me. I'm still interested in <i>Biopolitics</i> and how nature/culture impact how we interact and shape the world around us.
 </li>
+
+<li>
+<blockquote>
+<p>What is needed today is a fundamental re-experience of the oneness of all living things.</p>
+<footer> —Albert Hofmann
+</footer>
+</blockquote>
+</li>
 </br>
 </ul>
 </details>
@@ -105,9 +113,3 @@ Arroz Con Code is an amalgamation of two of the best things in life (imo), food 
   <span class="dot" onclick="currentSlide(2)"></span> 
   <span class="dot" onclick="currentSlide(3)"></span> 
 </div>
-
-<blockquote>
-<p>What is needed today is a fundamental re-experience of the oneness of all living things.</p>
-<footer> —Albert Hofmann
-</footer>
-</blockquote>
