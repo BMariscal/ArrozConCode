@@ -40,7 +40,7 @@ You gain strength, courage and confidence by every experience in which you reall
 </footer>
 </blockquote>
 
-As a junior engineer, it is important to surround yourself with people who believe in your skills. Meritocracy is a myth. "Pulling oneself up by the bootstraps" is impossible. It takes a village to lift you up. You will have to do 99% of the work to reach your goals but that 1%
+As a junior engineer, it is important to surround yourself with people who believe in your skills. Meritocracy is a myth. "Pulling oneself up by the bootstraps" is impossible. It takes a village to lift you up. You will do 99% of the work to reach your goals but that 1%
 will be your support system, the people who believe in you.
 
 Surround yourself with positive people who will give you critical feedback when needed but who also believe in your abilities to learn anything you set your mind to. As a woman in tech, I'm afraid of uncertainty, I'm unsure of my abilities and I'm not comfortable with my knowledge gaps but I have several male mentors who have encouraged me to do more throughout my career and who have believed in my abilities to learn, to code and to succeed. Pretend you are a confident man for a day, take a risk and <b><u>[just do the thing you think you cannot do](https://www.theatlantic.com/magazine/archive/2014/05/the-confidence-gap/359815/)</u></b>. Apply for the job you don't think you're qualified for because why not? what do you have to lose anyway? You're a confident dude, just brush it off, move on and apply to the next job.
