@@ -59,9 +59,8 @@ In this blog, I plan to cover concepts, tips and tools I've learned/am learning 
 I still love Anthropology. Much like Philosophy, Anthropology doesn't pay well/at all, but it's still awesome. Anthropology makes you think about the world around you, the world that exists beyond what you can see. This field pushes us to self-reflect and think about how nature and nurture shape who we are as a species; how cultural constructs shape our laws, every day lives and behaviors.
 
 <li>
-As a multiracial and socially anxious person who has always felt like an outsider, Anthropology was/is a way for me to understand the world around me. I'm still interested in <i>Biopolitics</i> and how nature/culture impact how we interact and shape the world around us.
+As a multiracial and socially anxious person who has always felt like an outsider, Anthropology was/is a way for me to understand society and the world around me. I'm still interested in <i>Biopolitics</i> and how nature/culture impact how we interact and shape our world.
 </li>
-
 <li>
 <blockquote>
 <p>What is needed today is a fundamental re-experience of the oneness of all living things.</p>
@@ -97,11 +96,16 @@ Arroz Con Code is an amalgamation of two of the best things in life (imo), food 
 </div>
 
 <div class="mySlides fade two">
-  <img src="https://i.imgur.com/fIRnKGdl.jpg">
+  <img src="https://i.imgur.com/Ejt4Ytz.jpg">
   <div class="text"></div>
 </div>
 
 <div class="mySlides fade three">
+  <img src="https://i.imgur.com/fIRnKGdl.jpg">
+  <div class="text"></div>
+</div>
+
+<div class="mySlides fade four">
   <img src="https://i.imgur.com/IVl4fUbl.jpg">
   <div class="text"></div>
 </div>
@@ -112,4 +116,5 @@ Arroz Con Code is an amalgamation of two of the best things in life (imo), food 
   <span class="dot" onclick="currentSlide(1)"></span> 
   <span class="dot" onclick="currentSlide(2)"></span> 
   <span class="dot" onclick="currentSlide(3)"></span> 
+  <span class="dot" onclick="currentSlide(4)"></span>
 </div>
