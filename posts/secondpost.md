@@ -11,9 +11,8 @@ layout: layouts/post.njk
 </br>
 </br>
 </br>
-<div style="width:100%; margin-left: auto;
-    margin-right: auto;
-    width: 25em;">
+<div style="margin-left: auto;
+    margin-right: auto;">
 <ul style="list-style-type:none;">
 <b>[WIP]</b>
 
